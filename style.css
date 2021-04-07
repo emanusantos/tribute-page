@@ -1,0 +1,63 @@
+.background {
+    background-color: rgb(216, 217, 224);
+    display: flex;
+    flex-direction: column;
+   }
+  
+  body {
+      background-color: rgb(74, 75, 77);
+      margin: 30px 20px 30px 10px;
+    }
+  h1 {
+    position: relative;
+    top: 25px;
+    font-family: sans-serif;
+    align-self: center;
+  }
+  .subtext {
+    position: relative;
+    top: 5px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 17px;
+  }
+  #items {
+    background-color: rgb(74, 75, 77);
+    margin: 0px 15px 0px 15px;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .smaller-image {
+    position: relative;
+    opacity: 85%;
+    top: 30px;
+    width: 70%;
+    align-content: center;
+    padding: 3em;
+  }
+  .cmt {
+      position: relative;
+      text-color: rgb(98, 90, 100);
+      bottom: 5px;
+  }
+  .tltitle {
+      position: relative;
+      top: 20px;
+      font-family: sans-serif;
+      align-self: center;
+      font-size: 22px;
+      padding: 2em;
+  }
+  .timeline {
+    line-height: 30px;
+    width: 30%;
+    height: 50%;
+    align-self: center;
+    font-family: sans-serif;
+    text-align: justify;
+  }
+  .footer {
+    font-family: sans-serif;
+    font-size: 18px;
+    align-self: center;
+  }
