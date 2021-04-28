@@ -1,6 +1,7 @@
 # Tribute Page
 <h3>freeCodeCamp Responsive Web Design - Projeto 01</h3>
 <p>Projeto solicitado para efetivar a task "Build a tribute page", necessária para receber o certificado do curso "Responsive Web Design" da plataforma freeCodeCamp. Página feita usando somente HTML e CSS.</p>
+<p>O objetivo da página consiste na elaboração de uma página em tributo a qualquer pessoa. A pessoa escolhida por mim foi o cantor Michael Jackson. Na página, está disponível um breve texto sobre Michael e embeds do Spotify com seus melhores álbums</p>
 
 
 <h3>📚 Conceitos necessários para a finalização do projeto</h3>
