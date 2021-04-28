@@ -34,6 +34,7 @@ https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-p
   <li>User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.</li>
 
   <li>User Story #9: The img element should be centered within its parent element.</li>
+</ul>
 
 <h3>🏁 Link do projeto completo no CodePen</h3>
 https://codepen.io/emanuelzinh/full/XWprJdy
